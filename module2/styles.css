@@ -18,14 +18,14 @@
  				 background-color: rgb(255, 128, 128);
  				font-family: Arial;
  			  color: rgb(77,0,31);
- 			  border:solid;
+ 			  border:1px solid black;
  			  margin: 10px;
  			  position: relative;
  			  float:left;
   				}
       #greenheading{background-color: green;
-                      color:white;}
-      #purpleheading{background-color:purple; color:white;}
+                      color:white; border-color:black;}
+      #purpleheading{background-color:purple; color:white; border-color:black;}
          			   p {
                     display: block;
                     margin-block-start: 0;
@@ -41,7 +41,7 @@
                      background-color: rgb(255, 255, 102);
                      margin-top: 0;
                      width: 30%;
-                     border: solid;
+                     border: 1px solid black;
                      position: absolute;
                      right: 0px;
                      top:0px;
