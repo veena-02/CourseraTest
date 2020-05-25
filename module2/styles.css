@@ -23,6 +23,9 @@
  			  position: relative;
  			  float:left;
   				}
+      #greenheading{background-color: green;
+                      color:white;}
+      #purpleheading{background-color:purple; color:white;}
  			   p {
                     display: block;
                     margin-block-start: 0;
